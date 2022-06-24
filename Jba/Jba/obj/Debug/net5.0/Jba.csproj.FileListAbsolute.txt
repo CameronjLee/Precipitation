@@ -1,0 +1,16 @@
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.exe
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.deps.json
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.runtimeconfig.json
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.runtimeconfig.dev.json
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.dll
+C:\Users\Cameron\source\repos\Jba\Jba\bin\Debug\net5.0\Jba.pdb
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.csproj.AssemblyReference.cache
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.AssemblyInfoInputs.cache
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.AssemblyInfo.cs
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.dll
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\refint\Jba.dll
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.pdb
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\Jba.genruntimeconfig.cache
+C:\Users\Cameron\source\repos\Jba\Jba\obj\Debug\net5.0\ref\Jba.dll
